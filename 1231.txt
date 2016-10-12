@@ -1,3 +1,9 @@
 123123
 
+<<<<<<< HEAD
 3242
+=======
+123
+
+GITHUB-TEST
+>>>>>>> origin/master
